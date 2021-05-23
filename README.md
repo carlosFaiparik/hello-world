@@ -1,2 +1,6 @@
 # hello-world
-First repository.
+Hi wantoks.
+
+Hope to learn coding and have fun while doing it.
+
+Thanks...!
